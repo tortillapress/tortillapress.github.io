@@ -1,0 +1,37 @@
+.texttwo{
+    position: absolute;
+    font-family: 'Roboto Mono',monospace;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    padding-left: 10px;
+    margin-top: 880px;
+     
+}
+
+img{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 15px;
+    top: -40px;
+}
+
+p{
+    text-align: right;
+    padding-right: 15px;
+    font-family: 'Roboto Mono',monospace;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+}
+
+.skytwo{
+    position: absolute;
+left: 0px;
+right: 0px;
+top: 0%;
+bottom: 40.53%;
+
+background: linear-gradient(180deg, #0F668B 0%, rgba(251, 251, 251, 0) 66.36%);
+}

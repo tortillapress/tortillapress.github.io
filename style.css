@@ -1,0 +1,180 @@
+.sky{
+    position: absolute;
+    height: 400px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #0784BA 0%, rgba(251, 251, 251, 0) 66.36%);
+}
+
+.two{
+    filter: blur(4px);
+    text-decoration: none;
+    position: absolute;
+    left: 1.8%;
+    right: 90%;
+    top: 41.7%;
+    bottom: 29.79%;
+    font-family: 'Roboto Mono',monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 142.69%;
+    text-align: center;
+    letter-spacing: -0.07em;
+    color: #000000
+}
+
+.one{
+    filter: blur(6px);
+    text-decoration: none;
+    position: absolute;
+    left: 18.26%;
+    right: 75.69%;
+    top: 41.5%;
+    bottom: 29.79%;
+    font-family: 'Roboto Mono',monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 110px;
+    line-height: 142.69%;
+    text-align: center;
+    letter-spacing: -0.07em;
+    color: #000000;
+}
+
+.three{
+    filter: blur(4px);
+    text-decoration: none;
+    position: absolute;
+    left: 50%;
+    right: 61.39%;
+    top: 50%;
+    bottom: 29.79%;
+    font-family: 'Roboto Mono',monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 142.69%;
+    text-align: center;
+    letter-spacing: -0.07em;
+    color: #000000;
+}
+
+.four{
+    filter: blur(4px);
+    text-decoration: none;
+    position: absolute;
+    left: 25.49%;
+    right: 68.47%;
+    top: 70.12%;
+    bottom: 9.86%;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 142.69%;
+    text-align: center;
+    letter-spacing: -0.07em;
+    color: #000000;
+}
+
+.zero{
+    filter: blur(4px);
+    text-decoration: none;
+    position: absolute;
+    left: 80%;
+    right: 4.17%;
+    top: 50%;
+    bottom: 29.98%;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    line-height: 142.69%;
+    text-align: center;
+    letter-spacing: -0.07em;
+    color: #000000; 
+}
+
+.tortinfo{
+    position: absolute;
+    width: 90px;
+    height: 100px;
+    left: 51%;
+    right: 1.07%;
+    top: 76%;
+    bottom: 18.35%;  
+}
+
+.square{
+    position: absolute;
+    left: 0%;
+    right: 87.5%;
+    top: 65.23%;
+    bottom: 17.38%;
+    background-color: #0cba52
+}
+
+.square2{
+    background-color: #0cba52;
+    position: absolute;
+    left: 12.5%;
+    right: 75%;
+    top: 82.62%;
+    bottom: 0%;
+}
+
+.square3{
+   position: absolute;
+    left: 25%;
+    right: 62.5%;
+    top: 65.23%;
+    bottom: 17.38%;;
+    background: #0CBA52;
+}
+
+.square4{
+    position: absolute;
+    left: 37.5%;
+    right: 50.07%;
+    top: 82.62%;
+    bottom: 0%;
+    background: #0CBA52;
+}
+
+.square5{
+    position: absolute;
+    left: 49.93%;
+    right: 37.57%;
+    top: 65.23%;
+    bottom: 17.38%;
+    background: #0CBA52;
+}
+
+.square6{
+   position: absolute;
+    left: 62.43%;
+    right: 25.07%;
+    top: 82.62%;
+    bottom: 0%;
+    background: #0CBA52;
+}
+
+.square7{
+    position: absolute;
+    left: 75%;
+    right: 12.5%;
+    top: 65.23%;
+    bottom: 17.38%;
+    background: #0CBA52;
+}
+
+.square8{
+    position: absolute;
+    left: 87.5%;
+    right: 0%;
+    top: 82.62%;
+    bottom: 0%;
+    background: #0CBA52;
+}
